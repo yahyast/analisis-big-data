@@ -1,3 +1,3 @@
 # analisis-big-data
-## dataset Indian Liver Patient Records
-## script map reduce dataset
+## dataset generate dummy patient
+## script mapping sql to fhir
